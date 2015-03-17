@@ -34,3 +34,4 @@ lua-ldoc
 imagemagick
 liblua5.1-0
 liblua5.1-dev
+virtualenvwrapper
